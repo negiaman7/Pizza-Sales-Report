@@ -11,10 +11,6 @@ A pizza store wants to understand:
 - What are the **best and worst performing pizzas** by revenue, quantity and orders?
 - How do sales behave **month to month** across the year?
 
-The goal of this dashboard is to help stakeholders make decisions around **staffing, promotions, menu optimization and inventory planning**.
-
----
-
 ## 📊 Key Metrics (KPIs)
 
 From the dashboard, for the period **01-01-2015 to 31-12-2015**:
@@ -24,8 +20,6 @@ From the dashboard, for the period **01-01-2015 to 31-12-2015**:
 - **Total Pizzas Sold:** `49,574`
 - **Average Order Value (AOV):** `38.31`
 - **Average Pizzas per Order:** `2.32`
-
-These KPIs are exposed on the top of the report for instant tracking.
 
 ---
 
@@ -67,8 +61,6 @@ These KPIs are exposed on the top of the report for instant tracking.
   - Pizza Name, Category and Size
   - Quantity
   - Unit Price and Total Price
-- The dataset was cleaned and modeled for analysis in Power BI.
-- 
 ---
 
 ## 🛠 Tech Stack & Power BI Features
